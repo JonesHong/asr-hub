@@ -1,0 +1,25 @@
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# Utils
+loguru==0.7.3
+rich==13.9.4
+watchdog==6.0.0
+redis==5.2.1
+
+# ASR Service
+numpy==1.24.4
+loguru==0.7.3
+rich==13.9.4
+fastapi[standard]==0.113.0
+pydantic==2.8.0
+opencc==1.1.9
+sounddevice==0.5.1
+# apt-get install libportaudio2 
+# funasr==1.2.0
+pydub==0.25.1
+onnx==1.17.0
+onnxconverter_common==1.14.0
+reactivex
+art
+jinja2
+gy_redis
